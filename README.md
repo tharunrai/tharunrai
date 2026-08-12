@@ -37,7 +37,7 @@ passions:
   - Agentic AI & Autonomous Systems
   - Modern Full-Stack Web Development
   - Data Analysis & Backend APIs
-current_focus: Agentic AI, TypeScript, NumPy, Pandas, Next.js, and Full-Stack Apps
+current_focus: Agentic AI, NumPy, Pandas, Next.js, and Full-Stack Apps
 location: India 🇮🇳
 status: Open to Collaborations & Internships 🚀
 ```

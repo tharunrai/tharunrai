@@ -114,13 +114,13 @@ status: Open to Collaborations & Internships 🚀
 
 ---
 
-### 🚀 My Coding Journey
+### 🏎️ My Coding Race
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharunrai/tharunrai/output/github-contribution-rocket-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tharunrai/tharunrai/output/github-contribution-rocket.svg">
-    <img alt="My Coding Journey - GitHub Contribution Rocket" src="https://raw.githubusercontent.com/tharunrai/tharunrai/output/github-contribution-rocket-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharunrai/tharunrai/output/github-contribution-race-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tharunrai/tharunrai/output/github-contribution-race.svg">
+    <img alt="My Coding Race - GitHub Contribution Car Race" src="https://raw.githubusercontent.com/tharunrai/tharunrai/output/github-contribution-race-dark.svg" width="100%" />
   </picture>
 </div>
 

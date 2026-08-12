@@ -101,7 +101,7 @@ status: Open to Collaborations & Internships 🚀
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Statistics & Activity
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=tharunrai&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=E2E8F0" alt="Tharun's GitHub Stats" />
@@ -109,7 +109,7 @@ status: Open to Collaborations & Internships 🚀
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tharunrai&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=A78BFA" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharunrai&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=8B5CF6&line=EC4899&point=A78BFA" width="95%" alt="Contribution Activity Graph" />
 </p>
 
 ---

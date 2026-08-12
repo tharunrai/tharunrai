@@ -104,7 +104,7 @@ status: Open to Collaborations & Internships 🚀
 ### 📊 GitHub Statistics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=tharunrai&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=E2E8F0" alt="Tharun's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=tharunrai&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=contribs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=E2E8F0" alt="Tharun's GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tharunrai&layout=compact&hide=c%2B%2B,c&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E2E8F0" alt="Top Languages" />
 </p>
 

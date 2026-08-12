@@ -1,25 +1,28 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=220&section=header&text=Hi%20there,%20I'm%20Tharun%20Rai%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20Builder%20%7C%20Data%20%26%20Python%20Enthusiast&descAlignY=62&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=220&section=header&text=Hi%20there,%20I'm%20Tharun%20Rai%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AIML%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Agentic%20AI&descAlignY=62&descAlign=50" width="100%"/>
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/tharunrai">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=🤖+Building+Agentic+AI+%26+Autonomous+Workflows;📊+Data+Manipulation+with+NumPy+%26+Pandas;🐍+Python+Developer+%26+AI+Explorer;⚡+Exploring+Multi-Agent+Systems+%26+LLMs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=🤖+AIML+Student+%26+Agentic+AI+Enthusiast;💻+Full-Stack+Web+Developer;⚡+Building+Modern+Apps+with+React+%26+Next.js;🚀+Exploring+Data+with+NumPy+%26+Pandas" alt="Typing SVG" />
   </a>
 
   <br/>
 
   <!-- Social & Profile Badges -->
   <p align="center">
-    <a href="https://github.com/tharunrai">
-      <img src="https://img.shields.io/badge/GitHub-tharunrai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <a href="mailto:tharunrai@example.com">
+      <img src="https://img.shields.io/badge/Email-tharunrai-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     <a href="https://linkedin.com/in/tharunrai" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Tharun_Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:tharunrai@example.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <a href="https://github.com/tharunrai">
+      <img src="https://img.shields.io/badge/GitHub-tharunrai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://leetcode.com/tharunrai" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-tharunrai-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
     </a>
   </p>
 
@@ -31,51 +34,70 @@
 
 ```yaml
 name: Tharun Rai
-focus_areas:
-  - Agentic AI & Autonomous Multi-Agent Systems
-  - Data Processing & Analysis (NumPy, Pandas)
-  - Python Scripting & Automation
-current_learning: Advanced Agentic Workflows & Tool-Using AI Agents
+role: AIML Student & Full Stack Developer
+passions:
+  - Agentic AI & Autonomous Systems
+  - Modern Full-Stack Web Development
+  - Data Analysis & Backend APIs
+current_focus: Agentic AI, NumPy, Pandas, Next.js, and Full-Stack Apps
 location: India 🇮🇳
-status: Exploring & Building with AI 🚀
+status: Open to Collaborations & Internships 🚀
 ```
 
-- 🤖 **Specialization**: Building & experimenting with **Agentic AI** systems and autonomous agents
-- 📊 **Data Crunching**: Utilizing **NumPy** for numerical computations and **Pandas** for structured data manipulation
-- 🐍 **Core Language**: Writing clean, modular **Python** scripts and AI pipelines
-- 💡 **Interests**: Prompt engineering, AI agent architectures, autonomous decision-making, and intelligent automation
-- 📫 **Connect with Me**: Feel free to reach out via GitHub or LinkedIn!
+- 🔭 **Currently Building**: Full-stack applications powered by **React**, **Next.js**, **Node.js**, and **Supabase**
+- 🤖 **Exploring & Learning**: **Agentic AI**, Autonomous Workflows, **NumPy**, and **Pandas**
+- 💡 **Passionate About**: Combining intelligent agentic AI systems with modern full-stack web applications
+- 🎯 **Goals**: Building production-grade AI agent solutions & contributing to open source
+- 💬 **Ask Me About**: JavaScript, Python, C++, React, Web Development, NumPy & Pandas
+- 📫 **How to Reach Me**: Feel free to connect on [LinkedIn](https://linkedin.com/in/tharunrai) or drop an email!
 
 ---
 
-### 🛠️ Tech Stack & Core Skills
+### 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-#### 🤖 Agentic AI & Intelligence
+#### 🌐 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Agentic_AI-6366F1?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI"/>
-  <img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/LLM_Workflows-EC4899?style=for-the-badge&logo=cognizant&logoColor=white" alt="LLM Workflows"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-#### 📊 Data Manipulation & Numerical Computing
+#### 💻 Frontend Development
 <p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
+
+#### ⚙️ Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+</p>
+
+#### 🤖 AI & Data
+<p>
+  <img src="https://img.shields.io/badge/Agentic_AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 
-#### 🐍 Programming Language
+#### 🧰 Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
-
-#### 🧰 Development Tools & Environment
-<p>
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
 
 </div>
@@ -103,14 +125,14 @@ status: Exploring & Building with AI 🚀
 
 ---
 
-### ⚡ Current Focus
+### ⚡ Featured / Current Focus
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│  🤖 Designing & testing autonomous Agentic AI workflows     │
-│  📊 Leveraging NumPy & Pandas for fast data processing       │
-│  🐍 Deepening Python expertise for AI automation            │
-│  🚀 Building impactful open-source AI tools & projects       │
+│  🤖 Exploring Agentic AI & Autonomous Workflows             │
+│  📊 Data Analysis & Manipulation with NumPy & Pandas        │
+│  🌐 Crafting responsive & scalable Full Stack Web Solutions │
+│  🤝 Actively seeking opportunities & collaborations         │
 └─────────────────────────────────────────────────────────────┘
 ```
 

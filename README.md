@@ -114,13 +114,13 @@ status: Open to Collaborations & Internships 🚀
 
 ---
 
-### 🧬 My Coding DNA
+### 🌌 My Coding Galaxy
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharunrai/tharunrai/output/github-contribution-grid-dna-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tharunrai/tharunrai/output/github-contribution-grid-dna.svg">
-    <img alt="My Coding DNA - GitHub Contribution Helix" src="https://raw.githubusercontent.com/tharunrai/tharunrai/output/github-contribution-grid-dna-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharunrai/tharunrai/output/github-contribution-galaxy-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tharunrai/tharunrai/output/github-contribution-galaxy.svg">
+    <img alt="My Coding Galaxy - GitHub Contribution Starfield" src="https://raw.githubusercontent.com/tharunrai/tharunrai/output/github-contribution-galaxy-dark.svg" width="100%" />
   </picture>
 </div>
 

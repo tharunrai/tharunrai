@@ -1,4 +1,4 @@
-name: Generate Contribution DNA
+name: Generate Contribution Galaxy
 
 on:
   schedule:
@@ -24,12 +24,12 @@ jobs:
         with:
           node-version: 20
 
-      - name: Generate Contribution DNA SVG
-        run: node scripts/generate-dna.js
+      - name: Generate Contribution Galaxy SVG
+        run: node scripts/generate-galaxy.js
         env:
           GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
 
-      - name: Deploy DNA SVGs to output branch
+      - name: Deploy Galaxy SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

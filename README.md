@@ -4,11 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=220&section=header&text=Hi%20there,%20I'm%20Tharun%20Rai%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AIML%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Agentic%20AI&descAlignY=62&descAlign=50" width="100%"/>
 
   <!-- Dynamic Typing Subtitle -->
-  <a href="https://github.com/tharunrai">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=🤖+AIML+Student+%26+Agentic+AI+Enthusiast;💻+Full-Stack+Web+Developer;⚡+Building+Modern+Apps+with+React+%26+Next.js;🚀+Exploring+Data+with+NumPy+%26+Pandas" alt="Typing SVG" />
-  </a>
-
-  <br/>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=AIML+Student+%7C+Agentic+AI+Enthusiast;Full-Stack+Web+Developer;Building+Modern+Apps+with+React+%26+Next.js;Data+Analysis+with+NumPy+%26+Pandas" alt="Typing SVG" />
+  </p>
 
   <!-- Social & Profile Badges -->
   <p align="center">
@@ -106,22 +104,14 @@ status: Open to Collaborations & Internships 🚀
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharunrai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=E2E8F0" alt="Tharun's GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunrai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E2E8F0" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=tharunrai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=E2E8F0" alt="Tharun's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tharunrai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E2E8F0" alt="Top Languages" />
+</p>
 
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharunrai&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=A78BFA" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=tharunrai&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=A78BFA" alt="GitHub Streak" />
+</p>
 
 ---
 

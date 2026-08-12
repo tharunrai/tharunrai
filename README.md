@@ -108,10 +108,10 @@ status: Open to Collaborations & Internships 🚀
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tharunrai&layout=compact&hide=c%2B%2B,c&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E2E8F0" alt="Top Languages" />
 </p>
 
-## 🏎️ My Coding Race
+## 🧱 My Contribution Tetris
 
 <p align="center">
-  <img src="dist/grid-race.svg" width="100%" alt="Animated GitHub Contribution Racing Visualization" />
+  <img src="dist/tetris.svg" width="100%" alt="Animated GitHub Contribution Tetris" />
 </p>
 
 ---

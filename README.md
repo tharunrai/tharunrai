@@ -111,7 +111,7 @@ status: Open to Collaborations & Internships 🚀
 ## 🏎️ My Coding Race
 
 <p align="center">
-  <img src="dist/race.svg" width="100%" alt="Animated GitHub Contribution Racing Visualization" />
+  <img src="dist/grid-race.svg" width="100%" alt="Animated GitHub Contribution Racing Visualization" />
 </p>
 
 ---

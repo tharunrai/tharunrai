@@ -1,4 +1,4 @@
-name: Generate Contribution Galaxy
+name: Generate Contribution Rocket
 
 on:
   schedule:
@@ -24,12 +24,12 @@ jobs:
         with:
           node-version: 20
 
-      - name: Generate Contribution Galaxy SVG
-        run: node scripts/generate-galaxy.js
+      - name: Generate Contribution Rocket SVG
+        run: node scripts/generate-rocket.js
         env:
           GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
 
-      - name: Deploy Galaxy SVGs to output branch
+      - name: Deploy Rocket SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

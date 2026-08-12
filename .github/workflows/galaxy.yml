@@ -1,0 +1,38 @@
+name: Generate Contribution DNA
+
+on:
+  schedule:
+    # Run automatically every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-dna:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate Contribution DNA SVG
+        run: node scripts/generate-dna.js
+        env:
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+
+      - name: Deploy DNA SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

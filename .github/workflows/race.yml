@@ -1,38 +1,32 @@
-name: Generate Contribution Race
+name: Generate GitHub Contribution Racing Visualization
 
 on:
   schedule:
-    # Run automatically every 12 hours
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *" # Runs every 12 hours
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
-  build-dna:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
+    
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          node-version: 20
+          node-version: '18'
 
-      - name: Generate Contribution Race SVG
-        run: node scripts/generate-race.js
-        env:
-          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
-
-      - name: Deploy Race SVGs to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Generate Racing SVG
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/generate-race.js
+        
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/race.svg
+          git commit -m "Update GitHub Contribution Race SVG" || exit 0
+          git push

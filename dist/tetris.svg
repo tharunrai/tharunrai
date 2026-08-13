@@ -532,70 +532,78 @@
 
   <!-- Historical Contribution Stack Blocks -->
   <g id="tetris-stack">
-    <use href="#tetris-block" x="135" y="333" fill="#3B82F6" opacity="0.75" />
+    <use href="#tetris-block" x="114" y="333" fill="#EF4444" opacity="0.75" />
+<use href="#tetris-block" x="114" y="312" fill="#EF4444" opacity="0.75" />
+<use href="#tetris-block" x="135" y="333" fill="#3B82F6" opacity="0.75" />
 <use href="#tetris-block" x="135" y="312" fill="#3B82F6" opacity="0.75" />
-<use href="#tetris-block" x="156" y="333" fill="#F97316" opacity="0.75" />
-<use href="#tetris-block" x="156" y="312" fill="#F97316" opacity="0.75" />
-<use href="#tetris-block" x="156" y="291" fill="#00F0FF" opacity="0.75" />
-<use href="#tetris-block" x="177" y="333" fill="#00F0FF" opacity="0.85" />
-<use href="#tetris-block" x="177" y="312" fill="#00F0FF" opacity="0.85" />
-<use href="#tetris-block" x="177" y="291" fill="#FACC15" opacity="0.85" />
-<use href="#tetris-block" x="177" y="270" fill="#FACC15" opacity="0.85" />
-<use href="#tetris-block" x="177" y="249" fill="#A855F7" opacity="0.85" />
-<use href="#tetris-block" x="177" y="228" fill="#A855F7" opacity="0.85" />
-<use href="#tetris-block" x="177" y="207" fill="#22C55E" opacity="0.85" />
+<use href="#tetris-block" x="135" y="291" fill="#F97316" opacity="0.75" />
+<use href="#tetris-block" x="156" y="333" fill="#F97316" opacity="0.85" />
+<use href="#tetris-block" x="156" y="312" fill="#F97316" opacity="0.85" />
+<use href="#tetris-block" x="156" y="291" fill="#00F0FF" opacity="0.85" />
+<use href="#tetris-block" x="156" y="270" fill="#00F0FF" opacity="0.85" />
+<use href="#tetris-block" x="156" y="249" fill="#FACC15" opacity="0.85" />
+<use href="#tetris-block" x="156" y="228" fill="#FACC15" opacity="0.85" />
+<use href="#tetris-block" x="156" y="207" fill="#A855F7" opacity="0.85" />
+<use href="#tetris-block" x="198" y="333" fill="#FACC15" opacity="0.75" />
+<use href="#tetris-block" x="198" y="312" fill="#FACC15" opacity="0.75" />
 <use href="#tetris-block" x="219" y="333" fill="#A855F7" opacity="0.75" />
 <use href="#tetris-block" x="219" y="312" fill="#A855F7" opacity="0.75" />
+<use href="#tetris-block" x="219" y="291" fill="#22C55E" opacity="0.75" />
 <use href="#tetris-block" x="240" y="333" fill="#22C55E" opacity="0.75" />
 <use href="#tetris-block" x="240" y="312" fill="#22C55E" opacity="0.75" />
 <use href="#tetris-block" x="240" y="291" fill="#EF4444" opacity="0.75" />
 <use href="#tetris-block" x="261" y="333" fill="#EF4444" opacity="0.75" />
 <use href="#tetris-block" x="261" y="312" fill="#EF4444" opacity="0.75" />
 <use href="#tetris-block" x="261" y="291" fill="#3B82F6" opacity="0.75" />
-<use href="#tetris-block" x="282" y="333" fill="#3B82F6" opacity="0.75" />
-<use href="#tetris-block" x="282" y="312" fill="#3B82F6" opacity="0.75" />
-<use href="#tetris-block" x="282" y="291" fill="#F97316" opacity="0.75" />
-<use href="#tetris-block" x="324" y="333" fill="#00F0FF" opacity="0.85" />
-<use href="#tetris-block" x="324" y="312" fill="#00F0FF" opacity="0.85" />
-<use href="#tetris-block" x="324" y="291" fill="#FACC15" opacity="0.85" />
-<use href="#tetris-block" x="324" y="270" fill="#FACC15" opacity="0.85" />
-<use href="#tetris-block" x="324" y="249" fill="#A855F7" opacity="0.85" />
-<use href="#tetris-block" x="345" y="333" fill="#FACC15" opacity="1" />
-<use href="#tetris-block" x="345" y="312" fill="#FACC15" opacity="1" />
-<use href="#tetris-block" x="345" y="291" fill="#A855F7" opacity="1" />
-<use href="#tetris-block" x="345" y="270" fill="#A855F7" opacity="1" />
-<use href="#tetris-block" x="345" y="249" fill="#22C55E" opacity="1" />
-<use href="#tetris-block" x="345" y="228" fill="#22C55E" opacity="1" />
-<use href="#tetris-block" x="345" y="207" fill="#EF4444" opacity="1" />
-<use href="#tetris-block" x="345" y="186" fill="#EF4444" opacity="1" />
-<use href="#tetris-block" x="345" y="165" fill="#3B82F6" opacity="1" />
-<use href="#tetris-block" x="345" y="144" fill="#3B82F6" opacity="1" />
-<use href="#tetris-block" x="345" y="123" fill="#F97316" opacity="1" />
-<use href="#tetris-block" x="366" y="333" fill="#A855F7" opacity="0.75" />
-<use href="#tetris-block" x="366" y="312" fill="#A855F7" opacity="0.75" />
-<use href="#tetris-block" x="366" y="291" fill="#22C55E" opacity="0.75" />
-<use href="#tetris-block" x="366" y="270" fill="#22C55E" opacity="0.75" />
+<use href="#tetris-block" x="303" y="333" fill="#F97316" opacity="0.85" />
+<use href="#tetris-block" x="303" y="312" fill="#F97316" opacity="0.85" />
+<use href="#tetris-block" x="303" y="291" fill="#00F0FF" opacity="0.85" />
+<use href="#tetris-block" x="303" y="270" fill="#00F0FF" opacity="0.85" />
+<use href="#tetris-block" x="303" y="249" fill="#FACC15" opacity="0.85" />
+<use href="#tetris-block" x="324" y="333" fill="#00F0FF" opacity="1" />
+<use href="#tetris-block" x="324" y="312" fill="#00F0FF" opacity="1" />
+<use href="#tetris-block" x="324" y="291" fill="#FACC15" opacity="1" />
+<use href="#tetris-block" x="324" y="270" fill="#FACC15" opacity="1" />
+<use href="#tetris-block" x="324" y="249" fill="#A855F7" opacity="1" />
+<use href="#tetris-block" x="324" y="228" fill="#A855F7" opacity="1" />
+<use href="#tetris-block" x="324" y="207" fill="#22C55E" opacity="1" />
+<use href="#tetris-block" x="324" y="186" fill="#22C55E" opacity="1" />
+<use href="#tetris-block" x="324" y="165" fill="#EF4444" opacity="1" />
+<use href="#tetris-block" x="324" y="144" fill="#EF4444" opacity="1" />
+<use href="#tetris-block" x="324" y="123" fill="#3B82F6" opacity="1" />
+<use href="#tetris-block" x="345" y="333" fill="#FACC15" opacity="0.75" />
+<use href="#tetris-block" x="345" y="312" fill="#FACC15" opacity="0.75" />
+<use href="#tetris-block" x="345" y="291" fill="#A855F7" opacity="0.75" />
+<use href="#tetris-block" x="345" y="270" fill="#A855F7" opacity="0.75" />
+<use href="#tetris-block" x="408" y="333" fill="#EF4444" opacity="0.75" />
+<use href="#tetris-block" x="408" y="312" fill="#EF4444" opacity="0.75" />
 <use href="#tetris-block" x="429" y="333" fill="#3B82F6" opacity="0.75" />
 <use href="#tetris-block" x="429" y="312" fill="#3B82F6" opacity="0.75" />
 <use href="#tetris-block" x="450" y="333" fill="#F97316" opacity="0.75" />
 <use href="#tetris-block" x="450" y="312" fill="#F97316" opacity="0.75" />
 <use href="#tetris-block" x="471" y="333" fill="#00F0FF" opacity="0.75" />
 <use href="#tetris-block" x="471" y="312" fill="#00F0FF" opacity="0.75" />
-<use href="#tetris-block" x="492" y="333" fill="#FACC15" opacity="0.75" />
-<use href="#tetris-block" x="492" y="312" fill="#FACC15" opacity="0.75" />
-<use href="#tetris-block" x="492" y="291" fill="#A855F7" opacity="0.75" />
-<use href="#tetris-block" x="492" y="270" fill="#A855F7" opacity="0.75" />
-<use href="#tetris-block" x="513" y="333" fill="#A855F7" opacity="1" />
-<use href="#tetris-block" x="513" y="312" fill="#A855F7" opacity="1" />
-<use href="#tetris-block" x="513" y="291" fill="#22C55E" opacity="1" />
-<use href="#tetris-block" x="513" y="270" fill="#22C55E" opacity="1" />
-<use href="#tetris-block" x="513" y="249" fill="#EF4444" opacity="1" />
-<use href="#tetris-block" x="513" y="228" fill="#EF4444" opacity="1" />
-<use href="#tetris-block" x="513" y="207" fill="#3B82F6" opacity="1" />
-<use href="#tetris-block" x="513" y="186" fill="#3B82F6" opacity="1" />
-<use href="#tetris-block" x="513" y="165" fill="#F97316" opacity="1" />
-<use href="#tetris-block" x="513" y="144" fill="#F97316" opacity="1" />
-<use href="#tetris-block" x="513" y="123" fill="#00F0FF" opacity="1" />
+<use href="#tetris-block" x="471" y="291" fill="#FACC15" opacity="0.75" />
+<use href="#tetris-block" x="471" y="270" fill="#FACC15" opacity="0.75" />
+<use href="#tetris-block" x="492" y="333" fill="#FACC15" opacity="1" />
+<use href="#tetris-block" x="492" y="312" fill="#FACC15" opacity="1" />
+<use href="#tetris-block" x="492" y="291" fill="#A855F7" opacity="1" />
+<use href="#tetris-block" x="492" y="270" fill="#A855F7" opacity="1" />
+<use href="#tetris-block" x="492" y="249" fill="#22C55E" opacity="1" />
+<use href="#tetris-block" x="492" y="228" fill="#22C55E" opacity="1" />
+<use href="#tetris-block" x="492" y="207" fill="#EF4444" opacity="1" />
+<use href="#tetris-block" x="492" y="186" fill="#EF4444" opacity="1" />
+<use href="#tetris-block" x="492" y="165" fill="#3B82F6" opacity="1" />
+<use href="#tetris-block" x="492" y="144" fill="#3B82F6" opacity="1" />
+<use href="#tetris-block" x="492" y="123" fill="#F97316" opacity="1" />
+<use href="#tetris-block" x="513" y="333" fill="#A855F7" opacity="0.85" />
+<use href="#tetris-block" x="513" y="312" fill="#A855F7" opacity="0.85" />
+<use href="#tetris-block" x="513" y="291" fill="#22C55E" opacity="0.85" />
+<use href="#tetris-block" x="513" y="270" fill="#22C55E" opacity="0.85" />
+<use href="#tetris-block" x="513" y="249" fill="#EF4444" opacity="0.85" />
+<use href="#tetris-block" x="513" y="228" fill="#EF4444" opacity="0.85" />
+<use href="#tetris-block" x="513" y="207" fill="#3B82F6" opacity="0.85" />
+<use href="#tetris-block" x="513" y="186" fill="#3B82F6" opacity="0.85" />
 
   </g>
 
@@ -644,7 +652,7 @@
     <!-- Section 2: Contribution Stats -->
     <g transform="translate(16, 80)">
       <text x="0" y="0" font-size="9" fill="#94A3B8" font-weight="700" letter-spacing="1">TOTAL SCORE</text>
-      <text x="0" y="18" font-size="18" fill="#38BDF8" font-weight="800">529</text>
+      <text x="0" y="18" font-size="18" fill="#38BDF8" font-weight="800">541</text>
       <text x="0" y="32" font-size="9.5" fill="#64748B">Contributions</text>
 
       <line x1="0" y1="42" x2="220" y2="42" stroke="#1E293B" stroke-width="1" />
@@ -653,7 +661,7 @@
     <!-- Section 3: Streaks -->
     <g transform="translate(16, 150)">
       <text x="0" y="0" font-size="9" fill="#94A3B8" font-weight="700" letter-spacing="1">CURRENT STREAK</text>
-      <text x="0" y="18" font-size="15" fill="#22C55E" font-weight="800">🔥 5 Days</text>
+      <text x="0" y="18" font-size="15" fill="#22C55E" font-weight="800">🔥 6 Days</text>
       <text x="0" y="32" font-size="9.5" fill="#64748B">Best: 11 Days</text>
 
       <line x1="0" y1="42" x2="220" y2="42" stroke="#1E293B" stroke-width="1" />

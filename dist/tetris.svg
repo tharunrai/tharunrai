@@ -532,23 +532,23 @@
 
   <!-- Historical Contribution Stack Blocks -->
   <g id="tetris-stack">
-    <use href="#tetris-block" x="93" y="333" fill="#22C55E" opacity="0.75" />
-<use href="#tetris-block" x="93" y="312" fill="#22C55E" opacity="0.75" />
-<use href="#tetris-block" x="93" y="291" fill="#EF4444" opacity="0.75" />
-<use href="#tetris-block" x="114" y="333" fill="#EF4444" opacity="0.85" />
-<use href="#tetris-block" x="114" y="312" fill="#EF4444" opacity="0.85" />
-<use href="#tetris-block" x="114" y="291" fill="#3B82F6" opacity="0.85" />
-<use href="#tetris-block" x="114" y="270" fill="#3B82F6" opacity="0.85" />
-<use href="#tetris-block" x="114" y="249" fill="#F97316" opacity="0.85" />
+    <use href="#tetris-block" x="72" y="333" fill="#A855F7" opacity="0.75" />
+<use href="#tetris-block" x="72" y="312" fill="#A855F7" opacity="0.75" />
+<use href="#tetris-block" x="72" y="291" fill="#22C55E" opacity="0.75" />
+<use href="#tetris-block" x="93" y="333" fill="#22C55E" opacity="0.85" />
+<use href="#tetris-block" x="93" y="312" fill="#22C55E" opacity="0.85" />
+<use href="#tetris-block" x="93" y="291" fill="#EF4444" opacity="0.85" />
+<use href="#tetris-block" x="93" y="270" fill="#EF4444" opacity="0.85" />
+<use href="#tetris-block" x="93" y="249" fill="#3B82F6" opacity="0.85" />
+<use href="#tetris-block" x="114" y="333" fill="#EF4444" opacity="0.75" />
+<use href="#tetris-block" x="114" y="312" fill="#EF4444" opacity="0.75" />
+<use href="#tetris-block" x="114" y="291" fill="#3B82F6" opacity="0.75" />
 <use href="#tetris-block" x="135" y="333" fill="#3B82F6" opacity="0.75" />
 <use href="#tetris-block" x="135" y="312" fill="#3B82F6" opacity="0.75" />
-<use href="#tetris-block" x="135" y="291" fill="#F97316" opacity="0.75" />
-<use href="#tetris-block" x="156" y="333" fill="#F97316" opacity="0.75" />
-<use href="#tetris-block" x="156" y="312" fill="#F97316" opacity="0.75" />
-<use href="#tetris-block" x="240" y="333" fill="#22C55E" opacity="0.75" />
-<use href="#tetris-block" x="240" y="312" fill="#22C55E" opacity="0.75" />
-<use href="#tetris-block" x="492" y="333" fill="#FACC15" opacity="0.75" />
-<use href="#tetris-block" x="492" y="312" fill="#FACC15" opacity="0.75" />
+<use href="#tetris-block" x="219" y="333" fill="#A855F7" opacity="0.75" />
+<use href="#tetris-block" x="219" y="312" fill="#A855F7" opacity="0.75" />
+<use href="#tetris-block" x="471" y="333" fill="#00F0FF" opacity="0.75" />
+<use href="#tetris-block" x="471" y="312" fill="#00F0FF" opacity="0.75" />
 
   </g>
 
